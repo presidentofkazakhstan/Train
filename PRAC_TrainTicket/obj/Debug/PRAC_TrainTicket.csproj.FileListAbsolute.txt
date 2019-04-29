@@ -1,0 +1,12 @@
+c:\users\windows10\source\repos\PRAC_TrainTicket\PRAC_TrainTicket\obj\Debug\PRAC_TrainTicket.csproj.CoreCompileInputs.cache
+c:\users\windows10\source\repos\PRAC_TrainTicket\PRAC_TrainTicket\bin\Debug\PRAC_TrainTicket.exe.config
+c:\users\windows10\source\repos\PRAC_TrainTicket\PRAC_TrainTicket\bin\Debug\PRAC_TrainTicket.exe
+c:\users\windows10\source\repos\PRAC_TrainTicket\PRAC_TrainTicket\bin\Debug\PRAC_TrainTicket.pdb
+c:\users\windows10\source\repos\PRAC_TrainTicket\PRAC_TrainTicket\bin\Debug\EntityFramework.dll
+c:\users\windows10\source\repos\PRAC_TrainTicket\PRAC_TrainTicket\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\windows10\source\repos\PRAC_TrainTicket\PRAC_TrainTicket\bin\Debug\EntityFramework.xml
+c:\users\windows10\source\repos\PRAC_TrainTicket\PRAC_TrainTicket\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\windows10\source\repos\PRAC_TrainTicket\PRAC_TrainTicket\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\windows10\source\repos\PRAC_TrainTicket\PRAC_TrainTicket\obj\Debug\PRAC_TrainTicket.csproj.CopyComplete
+c:\users\windows10\source\repos\PRAC_TrainTicket\PRAC_TrainTicket\obj\Debug\PRAC_TrainTicket.exe
+c:\users\windows10\source\repos\PRAC_TrainTicket\PRAC_TrainTicket\obj\Debug\PRAC_TrainTicket.pdb
